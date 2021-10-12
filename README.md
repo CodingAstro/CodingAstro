@@ -13,9 +13,14 @@
 ![Jquery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=FF2020)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=FF2020)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF2020)
-![Jquery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=FF2020)
-![Jquery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=FF2020)
-![Jquery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=FF2020)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ff2020)
+![Railwind](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=ff2020)
+![React Router](https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=react-router&logoColor=ff2020)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=ff2020)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=ff2020)
+![SASS](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=ff2020)
+![Typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ff2020)
+![Node](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=ff2020)
     
 </div>
 
