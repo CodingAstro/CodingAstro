@@ -1,6 +1,31 @@
-<div style="width: 100%; height: 100px; background-image: url('src/img/heroImage.jpg'); background-size: cover; display: flex; align-items: center; justify-content: center;" >
-    <h1 style="border: none; font-weight: bold; font-size: 3rem; margin-top: 30px; color: #fff">ASTRO CODING 🚀</h1>
+<h1 align="center">𝐀𝐒𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐍𝐆 🚀</h1>
+
+𝐇𝐞𝐥𝐥𝐨! :astronaut: 𝐈'𝐦 𝐚 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐬𝐜𝐢𝐞𝐧𝐜𝐞 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 💻 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐥𝐨𝐯𝐞𝐫. 𝐒𝐢𝐧𝐜𝐞 𝐈 𝐰𝐚𝐬 𝐚 𝐤𝐢𝐝 𝐈'𝐯𝐞 𝐛𝐞𝐞𝐧 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐈𝐓 𝐭𝐨𝐩𝐢𝐜𝐬 💾 𝐚𝐧𝐝 𝐈'𝐯𝐞 𝐛𝐞𝐞𝐧 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐭𝐨 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞 𝐭𝐨 𝐨𝐩𝐞𝐧 𝐬𝐨𝐮𝐫𝐜𝐞, 𝐚𝐬 𝐰𝐞𝐥𝐥 𝐚𝐬 𝐡𝐞𝐥𝐩𝐢𝐧𝐠 𝐩𝐞𝐨𝐩𝐥𝐞 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐦𝐲 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞/𝐭𝐢𝐩𝐬/𝐭𝐮𝐭𝐨𝐫𝐢𝐚𝐥𝐬. 𝐈 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤 𝐚𝐬 𝐚 𝐟𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐞𝐫 𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 :technologist: 𝐚𝐭 𝐅𝐢𝐯𝐞𝐫 𝐚𝐧𝐝 𝐈'𝐦 𝐜𝐨𝐧𝐬𝐭𝐚𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐧𝐞𝐰 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬! 🛠️
+
+<br/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=codingastro&title_color=FF2020&text_color=FFFFFF&bg_color=1A1A1A&icon_color=FF2020&show_icons=true">
+</img>
+
+
+<div align="center">
+
+<h3>𝐌𝐘 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊 :raising_hand_man:</h3>
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=FF2020)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=FF2020)
+![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FF2020)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF2020)
+![Jquery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=FF2020)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=FF2020)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF2020)
+![Jquery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=FF2020)
+![Jquery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=FF2020)
+![Jquery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=FF2020)
+    
 </div>
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=codingastro&title_color=FF2020&text_color=FFFFFF&bg_color=1A1A1A&icon_color=FF2020&show_icons=true"></img>
+<br/>
+<br/>
+<img src="src/img/hecho-con-amor-desde-perú.svg"></img>
