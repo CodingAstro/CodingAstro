@@ -1,6 +1,4 @@
-<h1 align="center">ASTRO CODING 🚀</h1>
-
-Hello, world! 🧑‍🚀 I'm a Computer Science student and technology lover. 💻 Since I was a kid I've been interested in IT topics and I've been looking to contribute to open source, as well as helping people through my experience! 🐱‍🏍
+**Hello, world!** 🧑‍🚀 I'm a Computer Science student and technology lover. 💻 Since I was a kid I've been interested in IT topics and I've been looking to contribute to open source, as well as helping people through my experience! 🐱‍🏍
 <div align="center">
 
 <h3>TECH STACK :raising_hand_man:</h3>
