@@ -1,10 +1,9 @@
-<h1 align="center">𝐀𝐒𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐍𝐆 🚀</h1>
+<h1 align="center">ASTRO CODING 🚀</h1>
 
-**𝐇𝐞𝐥𝐥𝐨 𝐰𝐨𝐫𝐥𝐝!** :astronaut: 𝐈'𝐦 𝐚 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐬𝐜𝐢𝐞𝐧𝐜𝐞 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 💻 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐥𝐨𝐯𝐞𝐫. 𝐒𝐢𝐧𝐜𝐞 𝐈 𝐰𝐚𝐬 𝐚 𝐤𝐢𝐝 𝐈'𝐯𝐞 𝐛𝐞𝐞𝐧 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐈𝐓 𝐭𝐨𝐩𝐢𝐜𝐬 💾 𝐚𝐧𝐝 𝐈'𝐯𝐞 𝐛𝐞𝐞𝐧 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐭𝐨 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞 𝐭𝐨 𝐨𝐩𝐞𝐧 𝐬𝐨𝐮𝐫𝐜𝐞, 𝐚𝐬 𝐰𝐞𝐥𝐥 𝐚𝐬 𝐡𝐞𝐥𝐩𝐢𝐧𝐠 𝐩𝐞𝐨𝐩𝐥𝐞 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐦𝐲 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞/𝐭𝐢𝐩𝐬/𝐭𝐮𝐭𝐨𝐫𝐢𝐚𝐥𝐬. 𝐈 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤 𝐚𝐬 𝐚 𝐟𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐞𝐫 𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 :technologist: 𝐚𝐭 𝐅𝐢𝐯𝐞𝐫 𝐚𝐧𝐝 𝐈'𝐦 𝐜𝐨𝐧𝐬𝐭𝐚𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐧𝐞𝐰 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬! 🛠️
-
+Hello, world! 🧑‍🚀 I'm a Computer Science student and technology lover. 💻 Since I was a kid I've been interested in IT topics and I've been looking to contribute to open source, as well as helping people through my experience! 🐱‍🏍
 <div align="center">
 
-<h3>𝐌𝐘 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊 :raising_hand_man:</h3>
+<h3>TECH STACK :raising_hand_man:</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-1a1a1a?style=for-the-badge&logo=HTML5&logoColor=FF2020)
 ![CSS3](https://img.shields.io/badge/-CSS3-1a1a1a?style=for-the-badge&logo=CSS3&logoColor=FF2020)
