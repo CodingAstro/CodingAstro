@@ -27,4 +27,3 @@
 </img>
 
 <br/>
-<img src="src/img/hecho-con-amor-desde-perú.svg"></img>
